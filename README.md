@@ -1,8 +1,8 @@
-<header id="header" align="center">
+<div id="div" align="center">
 <h1>Hi there, I'm Evgeniy</h1>
 <h3>Frontend web developer from Ekaterinburg</h3>
 <a href="https://t.me/J_Trunov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram link"/></a>
-</header>
+</div>
 
 ### About me
 
