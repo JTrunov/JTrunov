@@ -9,7 +9,6 @@
 - Currently learning **Web development**
 - Reach me by [Telegram](https://t.me/J_Trunov), [Mail](mailto:trunovevgeniy1@gmail.com)
 - Check out my personal [site](https://jtrunov.github.io/my-page)
-- Currently working on open source projects
 - Looking forward to being hired as web dev
 
 ### Languages and tools
