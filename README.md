@@ -5,11 +5,11 @@
 </div>
 
 ### About me
-
-- Currently learning **Web development**
+- Actively looking for a job as a web developer
+- Currently contributing to open source projects
 - Reach me by [Telegram](https://t.me/J_Trunov), [Mail](mailto:trunovevgeniy1@gmail.com)
 - Check out my personal [site](https://jtrunov.github.io/my-page)
-- Looking forward to being hired as web dev
+
 
 ### Languages and tools
 
